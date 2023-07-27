@@ -1,6 +1,13 @@
+# build files
+/css
+/js
+
+# dependencies
 /node_modules
+
+# configs
 /.idea
 /.vscode
 
-# OS Files
+# os files
 .DS_Store
